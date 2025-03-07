@@ -1,7 +1,7 @@
 # MoonShine Analog Clock Component
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/akostdev/moonshine-analog-clock.svg?style=flat-square)](https://packagist.org/packages/akostdev/moonshine-analog-clock)
-[![Total Downloads](https://img.shields.io/packagist/dt/akostdev/moonshine-analog-clock.svg?style=flat-square)](https://packagist.org/packages/akostdev/moonshine-analog-clock)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/akostdev/moonshine-clock-component.svg?style=flat-square)](https://packagist.org/packages/akostdev/moonshine-clock-component)
+[![Total Downloads](https://img.shields.io/packagist/dt/akostdev/moonshine-clock-component.svg?style=flat-square)](https://packagist.org/packages/akostdev/moonshine-clock-component)
 
 An elegant analog clock component for MoonShine Admin Panel with dark mode support and numerous customization options.
 
