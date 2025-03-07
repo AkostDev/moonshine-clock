@@ -3,11 +3,11 @@
     "description": "Analog clock for your admin panel and more",
     "keywords": ["clock", "moonshine", "compoenent"],
     "type": "library",
-    "homepage": "https://github.com/AkostDev/moonshine-clock-component",
+    "homepage": "https://github.com/AkostDev/moonshine-clock",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/AkostDev/moonshine-clock-component/issues",
-        "source": "https://github.com/AkostDev/moonshine-clock-component"
+        "issues": "https://github.com/AkostDev/moonshine-clock/issues",
+        "source": "https://github.com/AkostDev/moonshine-clock"
     },
     "authors": [
         {

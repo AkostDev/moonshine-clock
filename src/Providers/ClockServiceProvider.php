@@ -10,10 +10,10 @@ final class ClockServiceProvider extends ServiceProvider
 {
     public function boot(): void
     {
-        $this->loadViewsFrom(__DIR__ . '/../../resources/views', 'moonshine-clock-component');
+        $this->loadViewsFrom(__DIR__ . '/../../resources/views', 'moonshine-clock');
 
         $this->publishes([
-            __DIR__ . '/../../public' => public_path('vendor/moonshine-clock-component'),
-        ], ['moonshine-clock-component-assets', 'laravel-assets']);
+            __DIR__ . '/../../public' => public_path('vendor/moonshine-clock'),
+        ], ['moonshine-clock-assets', 'laravel-assets']);
     }
 }
