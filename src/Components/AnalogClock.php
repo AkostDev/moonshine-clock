@@ -12,7 +12,7 @@ use MoonShine\UI\Components\MoonShineComponent;
  */
 final class AnalogClock extends MoonShineComponent
 {
-    protected string $view = 'moonshine-clock-component::components.analog-clock';
+    protected string $view = 'moonshine-clock::components.analog-clock';
 
     public function __construct(
         public int $sizePx = 150,
@@ -48,7 +48,7 @@ final class AnalogClock extends MoonShineComponent
     protected function assets(): array
     {
         return [
-            Js::make('vendor/moonshine-clock-component/js/analog-clock.min.js'),
+            Js::make('vendor/moonshine-clock/js/analog-clock.min.js'),
         ];
     }
 
