@@ -1,7 +1,7 @@
 # Компонент аналоговых часов для MoonShine
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/akostdev/moonshine-clock-component.svg?style=flat-square)](https://packagist.org/packages/akostdev/moonshine-clock-component)
-[![Total Downloads](https://img.shields.io/packagist/dt/akostdev/moonshine-clock-component.svg?style=flat-square)](https://packagist.org/packages/akostdev/moonshine-clock-component)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/akostdev/moonshine-clock.svg?style=flat-square)](https://packagist.org/packages/akostdev/moonshine-clock)
+[![Total Downloads](https://img.shields.io/packagist/dt/akostdev/moonshine-clock.svg?style=flat-square)](https://packagist.org/packages/akostdev/moonshine-clock)
 
 Элегантный компонент аналоговых часов для админ-панели MoonShine с поддержкой темного режима и множеством опций для настройки.
 
@@ -24,7 +24,7 @@
 Установка пакета через composer:
 
 ```bash
-composer require akostdev/moonshine-clock-component
+composer require akostdev/moonshine-clock
 ```
 
 ## Использование

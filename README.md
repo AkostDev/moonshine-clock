@@ -1,7 +1,7 @@
 # MoonShine Analog Clock Component
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/akostdev/moonshine-clock-component.svg?style=flat-square)](https://packagist.org/packages/akostdev/moonshine-clock-component)
-[![Total Downloads](https://img.shields.io/packagist/dt/akostdev/moonshine-clock-component.svg?style=flat-square)](https://packagist.org/packages/akostdev/moonshine-clock-component)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/akostdev/moonshine-clock.svg?style=flat-square)](https://packagist.org/packages/akostdev/moonshine-clock)
+[![Total Downloads](https://img.shields.io/packagist/dt/akostdev/moonshine-clock.svg?style=flat-square)](https://packagist.org/packages/akostdev/moonshine-clock)
 
 An elegant analog clock component for MoonShine Admin Panel with dark mode support and numerous customization options.
 
@@ -24,7 +24,7 @@ An elegant analog clock component for MoonShine Admin Panel with dark mode suppo
 You can install the package via composer:
 
 ```bash
-composer require akostdev/moonshine-clock-component
+composer require akostdev/moonshine-clock
 ```
 
 ## Usage
