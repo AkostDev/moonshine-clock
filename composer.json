@@ -1,5 +1,5 @@
 {
-    "name": "akostdev/moonshine-clock-component",
+    "name": "akostdev/moonshine-clock",
     "description": "Analog clock for your admin panel and more",
     "keywords": ["clock", "moonshine", "compoenent"],
     "type": "library",
