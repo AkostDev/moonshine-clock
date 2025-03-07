@@ -1,19 +1,19 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": "Description",
-    "keywords": ["keyword"],
+    "name": "akostdev/moonshine-clock-component",
+    "description": "Analog clock for your admin panel and more",
+    "keywords": ["clock", "moonshine", "compoenent"],
     "type": "library",
-    "homepage": "https://moonshine.cutcode.dev",
+    "homepage": "https://github.com/AkostDev/moonshine-clock-component",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/:vendor_name/:package_name/issues",
-        "source": "https://github.com/:vendor_name/:package_name"
+        "issues": "https://github.com/AkostDev/moonshine-clock-component/issues",
+        "source": "https://github.com/AkostDev/moonshine-clock-component"
     },
     "authors": [
         {
-            "name": "Author name",
-            "email": "author@example.com",
-            "homepage": "https://example.com"
+            "name": "Alex Kostylev",
+            "email": "i@akost.dev",
+            "homepage": "https://t.me/AkostDev"
         }
     ],
     "require": {
@@ -29,13 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\PackageName\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "VendorName\\PackageName\\Tests\\": "tests/",
-            "VendorName\\PackageName\\Database\\Factories\\": "database/factories/"
+            "AKostDev\\MoonShine\\": "src/"
         }
     },
     "conflict": {
@@ -49,7 +43,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "VendorName\\PackageName\\Providers\\PackageNameServiceProvider"
+                "AKostDev\\MoonShine\\Providers\\ClockServiceProvider"
             ]
         }
     }
